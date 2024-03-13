@@ -15,6 +15,7 @@ Prereqs:
    node fastify/index.js
    node polka/index.js
    node hono/index.js
+   node hattip/index.js
    ```
 3. Run k6 script
    ```sh
